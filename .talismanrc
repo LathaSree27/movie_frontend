@@ -24,4 +24,10 @@ fileignoreconfig:
   checksum: 2155a56b3187c8f969bbf3a9b96b20ac812811e25b25170221cf8699572631a1
 - filename: package-lock.json
   checksum: c6ff430d642c6190136e4b87e248feae29c45fdff19f242e2a384044b6060c96
+- filename: src/components/signup/Signup.js
+  checksum: d0a53eaf5b1a660ddc7ad8ab81d9bea089ceb73170d425c8db4e01c06b9dbf74
+version: ""
+fileignoreconfig:
+- filename: src/components/signup/Signup.js
+  checksum: 1c9cb1940aae71c702c2cc7d56addd8c1973ba3bd68ca6f8889c372e8fa1ef82
 version: ""

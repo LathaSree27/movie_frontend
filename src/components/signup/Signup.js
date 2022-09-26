@@ -88,7 +88,7 @@ export default () => {
       if (!minLengthRegExp.test(formik.values.password) || !uppercaseRegExp.test(formik.values.password)
         || !digitsRegExp.test(formik.values.password) || !specialCharRegExp.test(formik.values.password)
         || !lowercaseRegExp.test(formik.values.password)) {
-        errors.password = "The password must contain at least- 8 characters: 1 capital letter, 1 small letter, 1 special character( @!#$%&), and 1 number"
+        errors.password = "The password must contain at least- 8 characters: 1 capital letter, 1 small letter, 1 special character( @!#$%&), and 1 number";
       }
       if (!((/^[6-9]\d{9}$/gi)).test(formik.values.contact_number)) {
         errors.contact_number = "Please enter valid contact number "
