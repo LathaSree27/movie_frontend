@@ -31,3 +31,19 @@ fileignoreconfig:
 - filename: src/components/signup/Signup.js
   checksum: 1c9cb1940aae71c702c2cc7d56addd8c1973ba3bd68ca6f8889c372e8fa1ef82
 version: ""
+fileignoreconfig:
+- filename: rootCA.key
+  checksum: fb0888d81ac0d79f3988fae3125af45a76e7430508b7d72eb5452393b51aff22
+- filename: rootCA.pem
+  checksum: 5515d87233cc8c74b93a6de6e8aac3ee28ad80aa3f68037cbc4c0343c59751a8
+- filename: server.key
+  checksum: 5f58bc871d643b7955941a8963f4dcb3d4b2bccdd075ee862aa591dde1e8dd05
+- filename: server.csr
+  checksum: 4c9cbd79381f1302b85c54d5059dc1f6a6cf71669c62b325cf9550f615932a45
+- filename: server.crt
+  checksum: 9e9b2450dd6cd1baba87fbcb8c3962d5850ec3286ada1d9da662d8f62b2aa2a0
+- filename: package.json
+  checksum: 2eb38461fb7625bd5e014e615afa7dd5414c2cb5a440f116f12e1c8639bd4efc
+- filename: v3.ext
+  checksum: 2d1ae4f23889d86afeffe8936e9ed02740866c92ee35df75f0fbe10f2d459e52
+version: ""

@@ -1,0 +1,13 @@
+[req]
+default_bits = 2048
+prompt = no
+default_md = sha256
+distinguished_name = dn
+[dn]
+C=IN
+ST=Karnataka
+L=Bangalore
+O=Company_Name
+OU=IT
+emailAddress=example@gmail.com
+CN = localhost
