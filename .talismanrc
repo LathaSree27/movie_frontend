@@ -47,3 +47,11 @@ fileignoreconfig:
 - filename: v3.ext
   checksum: 2d1ae4f23889d86afeffe8936e9ed02740866c92ee35df75f0fbe10f2d459e52
 version: ""
+fileignoreconfig:
+- filename: yarn.lock
+  checksum: e144becec8a90abfd8618abff8b1ae89b5e102eb8ba58be002e7041634ba9908
+- filename: package-lock.json
+  checksum: 935619f5b5682fd1385e514061071a8b82248f13d5bdb2c7d778605b62cfa4d9
+- filename: package.json
+  checksum: c3fd8ad6d789917d0e8f7b79ab43a0a18a1382dc7486b7ca41ac7bb867ffd29b
+version: ""
